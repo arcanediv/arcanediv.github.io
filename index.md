@@ -32,19 +32,11 @@ You agree not to use Arcane Enterprise services in any way that violates applica
 
 ## Intellectual Property
 
-All content provided by Arcane Enterprise, including logos, branding, and related materials, is the property of Arcane Development and is protected by intellectual property laws.
+All content provided by Arcane Enterprise, including logos, branding, and related materials, and its associated names like "Arcane Development", "Arcane Divinity" and "ArcaneDiv" is the property of Arcane Development and is protected by intellectual property laws.
 
 ## Limitation of Liability
 
 Arcane Enterprise is not liable for any direct, indirect, incidental, consequential, or special damages arising out of or in any way connected with your use of the services, including Microsoft 365.
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
 ```
