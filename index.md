@@ -37,12 +37,3 @@ All content provided by Arcane Enterprise, including logos, branding, and relate
 ## Limitation of Liability
 
 Arcane Enterprise is not liable for any direct, indirect, incidental, consequential, or special damages arising out of or in any way connected with your use of the services, including Microsoft 365.
-
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
